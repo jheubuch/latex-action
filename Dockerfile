@@ -1,4 +1,4 @@
-FROM jheubuch/latex-build:latest
+FROM jheubuch/latex-build:1.0.0
 
 COPY \
   LICENSE \
